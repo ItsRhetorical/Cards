@@ -1,0 +1,26 @@
+<cards>
+	<card>
+		<id>Guard01</id>
+		<title>REJUVENATING STRIKE</title>
+		<attack>MM</attack>
+		<cost>BB</cost> 
+		<body>Return any wounds from your hand, then draw that many cards</body>
+		<flavor>What energy do you get from the blow?</flavor>
+	</card>
+	<card>
+		<id>Guard02</id>
+		<title>REJUVENATING STRIKE</title>
+		<attack>MM</attack>
+		<cost>BB</cost> 
+		<body>Return any wounds from your hand, then draw that many cards</body>
+		<flavor>What energy do you get from the blow?</flavor>
+	</card>
+	<card>
+		<id>Guard03</id>
+		<title>Lure</title>
+		<attack>MMM</attack>
+		<cost>BBB</cost> 
+		<body>First: Move 1 enemy from an adjacent tile onto your tile.</body>
+		<flavor>How do you draw in your prey?</flavor>
+	</card>	
+</cards>
